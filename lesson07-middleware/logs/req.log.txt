@@ -1,0 +1,3 @@
+2024-08-07 08:15:37	2da8f518-8ecb-4c21-84b7-83bc4dd237cb	[GET]	undefined	/new-page.html
+2024-08-07 08:15:38	233817ac-069f-4b7f-a388-a32bf563afdb	[GET]	undefined	/css/style.css
+2024-08-07 08:15:38	125834ce-3982-4926-9b6f-1885ba807c92	[GET]	undefined	/img/img1.jpg
